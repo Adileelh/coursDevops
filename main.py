@@ -28,9 +28,4 @@ def main():
         guess = int(input("Enter guess: "))
         num_guesses += 1
 
-    # Display the result of the game
-    print("You guessed it! The number was", number)
-    print("And it only took you", num_guesses, "tries!\n")
-
-    print("Press the Enter key to quit.")
     input()
