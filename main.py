@@ -28,4 +28,6 @@ def main():
         guess = int(input("Enter guess: "))
         num_guesses += 1
 
+        print("You guessed it in", num_guesses, "tries.\n")
+
     input()
