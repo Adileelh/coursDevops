@@ -28,6 +28,4 @@ def main():
         guess = int(input("Enter guess: "))
         num_guesses += 1
 
-        print("You added this code to create a confilct")
-
     input()
